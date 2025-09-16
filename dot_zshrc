@@ -5,7 +5,7 @@
 
 alias cd="z"
 alias docker="podman"
-alias chezmoi="bin/chezmoi"
+alias chezmoi="~/bin/chezmoi"
 
 # Automatic Colouring
 alias grep='grep --color=auto'
