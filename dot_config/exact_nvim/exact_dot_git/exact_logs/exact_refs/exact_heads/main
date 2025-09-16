@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 1326c60cecc1d4615c415c45e92a7a5f83101b4f Adam Henderson <adamhenderson90@gmail.com> 1756661038 +0100	clone: from github.com:A-Hendo/nvim-config.git
+1326c60cecc1d4615c415c45e92a7a5f83101b4f f8270a81e3f0d34dc844b87fca1b42d71961e3ea Adam Henderson <adamhenderson90@gmail.com> 1756670443 +0100	commit: Update plugins, add rainbow-delimiters and fix snack explorer position
